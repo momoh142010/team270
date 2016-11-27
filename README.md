@@ -1,13 +1,12 @@
 # team270
-Nuit de l'info #Team270<br><br>
-
+Nuit de l'info #Team270<br>
 Codez vite, codez bien, never baguette.<br><br>
 
-<h2>Le guide de survie de Git<h2>
+<h2>Le guide de survie de Git</h2>
 <p>Pour le download, c'est ici : <a href="https://github.com/git-for-windows/git/releases/download/v2.10.2.windows.1/Git-2.10.2-64-bit.exe">Clique ici !</a> <br>
 Pour utiliser Git, on lance un invité de commande (Windows + R : cmd) </p>
 
-<h3>Pour installer le repo sur son PC<h3>
+<h3>Pour installer le repo sur son PC</h3>
 <p>
   <ul>
   <li>On créer un dossier Git sur son dossier personnel : <code><b>mkdir</b> Git</code></li>
