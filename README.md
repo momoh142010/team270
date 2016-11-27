@@ -15,7 +15,8 @@ Pour utiliser Git, on lance un invité de commande (Windows + R : cmd) </p><br>
 <li>On clone le repo : <code><b>git</b> clone https://github.com/Olivier-Delierre/team270/</code></li>
 <li>On va dans le dossier du repo : <code><b>cd</b> team270</code></li>
 </ul>
-<p>DONE !</p><br>
+DONE !<br>
+</p>
 
 <h3>Commandes usuelles</h3>
 <p><em>Les modifications</em><br>
