@@ -11,7 +11,7 @@ Pour utiliser Git, on lance un invité de commande (Windows + R : cmd) </p>
   <ul>
   <li>On créer un dossier Git sur son dossier personnel : <code><b>mkdir</b> Git</code></li>
   <li>On va dans le dossier : <code><b>cd</b> Git</code></li>
-  <li>On clone le repo : <code><b>git</b> clone https://github.com/Olivier-Delierre/team270/</code></li>
+  <li>On clone le repo : <code><b>git</b> clone https://github.com/Olivier-Delierre/team270.git</code></li>
   <li>On va dans le dossier du repo : <code><b>cd</b> team270</code></li>
   </ul>
   DONE !<br>
