@@ -5,17 +5,17 @@ Codez vite, codez bien, never baguette.<br><br>
 
 <h2>Le guide de survie de Git<h2>
 <p>Pour le download, c'est ici : <a href="https://github.com/git-for-windows/git/releases/download/v2.10.2.windows.1/Git-2.10.2-64-bit.exe">Clique ici !</a> <br>
-Pour utiliser Git, on lance un invité de commande (Windows + R : cmd) </p><br>
+Pour utiliser Git, on lance un invité de commande (Windows + R : cmd) </p>
 
 <h3>Pour installer le repo sur son PC<h3>
 <p>
-<ul>
-<li>On créer un dossier Git sur son dossier personnel : <code><b>mkdir</b> Git</code></li>
-<li>On va dans le dossier : <code><b>cd</b> Git</code></li>
-<li>On clone le repo : <code><b>git</b> clone https://github.com/Olivier-Delierre/team270/</code></li>
-<li>On va dans le dossier du repo : <code><b>cd</b> team270</code></li>
-</ul>
-DONE !<br>
+  <ul>
+  <li>On créer un dossier Git sur son dossier personnel : <code><b>mkdir</b> Git</code></li>
+  <li>On va dans le dossier : <code><b>cd</b> Git</code></li>
+  <li>On clone le repo : <code><b>git</b> clone https://github.com/Olivier-Delierre/team270/</code></li>
+  <li>On va dans le dossier du repo : <code><b>cd</b> team270</code></li>
+  </ul>
+  DONE !<br>
 </p>
 
 <h3>Commandes usuelles</h3>
