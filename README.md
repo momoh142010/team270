@@ -8,6 +8,7 @@ Codez vite, codez bien, never baguette.<br><br>
 <li>Créer un nouveau projet C++ dans le dossier de votre choix (Pas dans le repo Git !!)</li>
 <li>Cliquer droit sur le nom du projet, sous Workspace, dans le panneau latéral gauche</li>
 <li>Cliquer sur "Add files recursively..." et choisir le repertoir "src" du repo Git</li>
+<li>Supprimer l'ancien .cpp que Code::blocks a généré</li>
 </ul>
 DONE !<br>
 </p>
