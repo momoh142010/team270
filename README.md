@@ -15,6 +15,7 @@ DONE !<br>
 
 <h2>Le guide de survie de Git</h2>
 <p>Pour le download, c'est ici : <a href="https://github.com/git-for-windows/git/releases/download/v2.10.2.windows.1/Git-2.10.2-64-bit.exe">Clique ici !</a> <br>
+Pour la version GUI (Graphique) c'est ici : <a href="https://github-windows.s3.amazonaws.com/GitHubSetup.exe">Clique ici !</a> <br>
 Pour utiliser Git, on lance un invité de commande (Windows + R : cmd) </p>
 
 <h3>Pour installer le repo sur son PC</h3>
