@@ -1,6 +1,16 @@
-# team270
+# Team 270
 Nuit de l'info #Team270<br>
 Codez vite, codez bien, never baguette.<br><br>
+
+<h2>Lier Code::blocks avec Git pour build en local</h2>
+<p>Pour le download de Code::blocks, c'est ici : <a href="http://downloads.sourceforge.net/project/codeblocks/Binaries/16.01/Windows/codeblocks-16.01mingw-setup.exe?r=http%3A%2F%2Fwww.codeblocks.org%2Fdownloads%2F26&ts=1480359220&use_mirror=kent">Clique ici !</a> <br>
+<ul>
+<li>Créer un nouveau projet C++ dans le dossier de votre choix (Pas dans le repo Git !!)</li>
+<li>Cliquer droit sur le nom du projet, sous Workspace, dans le panneau latéral gauche</li>
+<li>Cliquer sur "Add files recursively..." et choisir le repertoir "src" du repo Git</li>
+</ul>
+DONE !<br>
+</p>
 
 <h2>Le guide de survie de Git</h2>
 <p>Pour le download, c'est ici : <a href="https://github.com/git-for-windows/git/releases/download/v2.10.2.windows.1/Git-2.10.2-64-bit.exe">Clique ici !</a> <br>
