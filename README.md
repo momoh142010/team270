@@ -2,12 +2,12 @@
 Nuit de l'info #Team270<br>
 Codez vite, codez bien, never baguette.<br><br>
 
+<h2>Branche "Singe"</h2>
+<p>ICI C'EST LE ZOO</p>
+
 <h2>Le guide de survie de Git</h2>
 <p>Pour le download, c'est ici : <a href="https://github.com/git-for-windows/git/releases/download/v2.10.2.windows.1/Git-2.10.2-64-bit.exe">Clique ici !</a> <br>
 Pour utiliser Git, on lance un invité de commande (Windows + R : cmd) </p>
-
-<h3>Branche "Singe"</h3>
-<p>ICI C'EST LE ZOO</p>
 
 <h3>Pour installer le repo sur son PC</h3>
 <p>
