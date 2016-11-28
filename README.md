@@ -18,7 +18,7 @@ Pour utiliser Git, on lance un invité de commande (Windows + R : cmd) </p>
 </p>
 
 <h3>Commandes usuelles</h3>
-<p><em>Les modifications</em><br>
+<p><em>pLes modifications</em><br>
 <code><b>git</b> pull origin '<b>branche</b>'</code> Pour avoir les dernières versions des fichiers.<br>
 <code><b>git</b> add fichier1 fichier2 ...</code> Pour ajouter ses modifications, ou des fichiers au repository <b>LOCAL</b>.<br>
 <code><b>git</b> rm fichier1 fichier2 ...</code> Pour supprimer des fichiers au repository <b>LOCAL</b>.<br>
