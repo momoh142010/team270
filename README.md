@@ -2,6 +2,12 @@
 Nuit de l'info #Team270<br>
 Codez vite, codez bien, never baguette.<br><br>
 
+<h2>Branche "Experimental</h2>
+<p>Bienvenue sur la branche "Experimental" du repository. C'est ici qu'on bricole tout et n'importe quoi.<br>
+C'est le seul endroit où vous avez le droit de faire "à peu près n'importe quoi".<br><br>
+
+Après validation, cette branche sera pull sur la branche dev.</p>
+
 <h2>Le guide de survie de Git</h2>
 <p>Pour le download, c'est ici : <a href="https://github.com/git-for-windows/git/releases/download/v2.10.2.windows.1/Git-2.10.2-64-bit.exe">Clique ici !</a> <br>
 Pour utiliser Git, on lance un invité de commande (Windows + R : cmd) </p>
