@@ -2,5 +2,8 @@
 using namespace std;
 
 int main() {
-  return 0;
+  	int i = 2;
+  	int j = 3;
+  	cout << i + j;
+	return 0;
 }
