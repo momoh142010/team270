@@ -1,0 +1,10 @@
+table {
+  table-layout: fixed;
+  width: 400px;
+}
+
+th {
+  font-weight: normal;
+  text-align: left;
+  padding-right: 5%;
+}
